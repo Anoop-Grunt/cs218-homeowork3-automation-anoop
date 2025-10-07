@@ -1,0 +1,6 @@
+name = "venkatanoopkarlapudi"
+region = "us-west-2"
+key_name = "cs218-anoop-keypair-2-uw2"
+ami = "ami-0caa91d6b7bee0ed0"
+public_subnet_az = "us-west-2a"
+private_subnet_az = "us-west-2b"
